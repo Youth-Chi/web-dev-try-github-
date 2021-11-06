@@ -3,3 +3,6 @@ git basic test
 second-commit.txt
 
 And here we go with commit 
+
+This is another commit!
+branch-main
